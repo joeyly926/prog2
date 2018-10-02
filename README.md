@@ -1,2 +1,3 @@
-# prog2
-helper files for the intro cg class's second programming assignment
+WebGL Intro
+
+Improved object arrays to include materials and other attribtes. Colored the triangles based on each object's diffuse color value. 
